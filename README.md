@@ -24,6 +24,6 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
     <!-- <img align="center" alt="html5" src="" /> -->
 <div><br/>
-
-Apaixonado por tecnologia, sempre disposto a aprender o novo, e games são meu lazer 
+    
+Entusiasta de tecnologia, sempre em busca de novas aprendizagens. Apaixonado por inovação, e nos momentos de lazer, mergulho no mundo dos games.
 
