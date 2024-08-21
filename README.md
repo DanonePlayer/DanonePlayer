@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/danoneplayer)
 
 
-
+<!--<img align="center" alt="html5" src="assets/dev.giv" />-->
 ![Danone GitHub stats](https://github-readme-stats.vercel.app/api?username=danoneplayer&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danoneplayer&langs_count=8&theme=dracula)
 
