@@ -26,12 +26,3 @@
 <div><br/>
     
 Technology enthusiast, always seeking new learning opportunities. Passionate about innovation, and in my leisure time, I dive into the world of gaming.
-
-<p align="left">
-  <strong>Change the language</strong>&nbsp;<img src="https://github.com/ppaalo/ppaalo/blob/main/assets/notchapple.gif" width="24px">
-</p>
-<p align="left">
-  <a href="https://github.com/ppaalo/ppaalo/blob/main/README-pt.md">
-    <img src="https://github.com/ppaalo/ppaalo/blob/main/assets/flag-portugues.png" align-content="flex-end" min-width="50px" max-width="50px" width="50px" align="left" alt="Turn Language to portuguese">
-  </a>
-</p>
