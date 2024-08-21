@@ -1,4 +1,4 @@
-### Olá! Eu sou Carlos 🤙
+### Hello! I’m Carlos 🤙
 
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://google.com)
 
@@ -10,7 +10,7 @@
 ![Danone GitHub stats](https://github-readme-stats.vercel.app/api?username=danoneplayer&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danoneplayer&layout=compact)
 
-## Tecnologias que eu uso no meu dia
+## Technologies I use in my day
 
 <div style="display: inline_block"> <br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -25,5 +25,13 @@
     <!-- <img align="center" alt="html5" src="" /> -->
 <div><br/>
     
-Entusiasta de tecnologia, sempre em busca de novas aprendizagens. Apaixonado por inovação, e nos momentos de lazer, mergulho no mundo dos games.
+Technology enthusiast, always seeking new learning opportunities. Passionate about innovation, and in my leisure time, I dive into the world of gaming.
 
+<p align="left">
+  <strong>Change the language</strong>&nbsp;<img src="https://github.com/ppaalo/ppaalo/blob/main/assets/notchapple.gif" width="24px">
+</p>
+<p align="left">
+  <a href="https://github.com/ppaalo/ppaalo/blob/main/README-pt.md">
+    <img src="https://github.com/ppaalo/ppaalo/blob/main/assets/flag-portugues.png" align-content="flex-end" min-width="50px" max-width="50px" width="50px" align="left" alt="Turn Language to portuguese">
+  </a>
+</p>
