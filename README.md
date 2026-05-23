@@ -72,7 +72,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon_S3-FF9900?style=for-the-badge&logo=amazon-s3&logoColor=white)
 
 **Tools & Others**
 
