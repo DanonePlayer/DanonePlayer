@@ -97,7 +97,6 @@
 | 🚗 **AcreTrack** | Real-time GPS vehicle tracking system | NestJS · React · React Native · Socket.io |
 | ⚖️ **KS** | Law firm management system (cases, finance, reports) | Spring Boot · React · TypeScript |
 | 🎱 **Bingo Online** | Charitable bingo with real-time draws & PDF cartelas | Laravel · React 19 · Inertia.js |
-| 🕵️ **ZanchettaScraping** | Agricultural market data scraper with AI vision | Spring Boot · Playwright · Gemini AI |
 | 🔒 **IPsec VPN Manager** | Linux GUI for IPsec/XAuth VPN via strongSwan | Python · Tkinter |
 
 </div>
